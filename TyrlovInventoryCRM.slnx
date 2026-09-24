@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="TyrlovInventoryCRM.Tests/TyrlovInventoryCRM.Tests.csproj" />
+  <Project Path="TyrlovInventoryCRM/TyrlovInventoryCRM.csproj" />
+</Solution>
