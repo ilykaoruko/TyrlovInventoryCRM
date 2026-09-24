@@ -33,7 +33,7 @@
 
 Вам не нужно устанавливать среду разработки или компилировать код, чтобы протестировать CRM.
 
-1. Перейдите в раздел [Releases](https://github.com/ВАШ_НИК/TyrlovInventoryCRM/releases) справа на странице проекта.
+1. Перейдите в раздел [Releases](https://github.com/ilykaoruko/TyrlovInventoryCRM/releases) справа на странице проекта.
 2. Скачайте последний архив `TyrlovInventoryCRM_v1.0.zip`.
 3. Распакуйте архив в любую удобную папку на вашем ПК.
 4. Запустите файл `TyrlovInventoryCRM.exe`.
