@@ -22,7 +22,6 @@
 
 ## 📸 Скриншоты
 
-*(Добавьте сюда скриншот интерфейса)*
 <img width="1080" height="735" alt="изображение" src="https://github.com/user-attachments/assets/8412dc5b-6c78-40c8-8f63-69ec7192d66e" />
 <img width="1077" height="738" alt="изображение" src="https://github.com/user-attachments/assets/641dc4a4-42d9-46b3-843d-1d06eca97361" />
 <img width="1080" height="737" alt="изображение" src="https://github.com/user-attachments/assets/966a03ac-4ba8-444d-a9bf-9ad42ed6a91c" />
